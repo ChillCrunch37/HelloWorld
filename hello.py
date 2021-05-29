@@ -3,5 +3,5 @@ print('Hello World')
 
 def hi():
     print('Hello World')
-hi()
-
+if __name__ == '__main__':
+    hi()
