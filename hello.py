@@ -16,3 +16,5 @@ class HelloLanguages():
 
 if __name__ == '__main__':
     hi()
+    new_hello = HelloLanguages()
+    #__init__ should set intital state.
